@@ -144,11 +144,11 @@
 }
 
 .question__unvisible:checked + .question__visible-radio {
-  background-color: #5b3f21;
+  background-color: #2b553a;
 }
 
 .question__unvisible:disabled + .question__visible-radio {
-  border: 1px solid #5b3f21;
+  border: 1px solid #2b553a;
   background-color: #fbf8ec;
 }
 
@@ -171,11 +171,11 @@
 }
 
 .question__unvisible:checked + .question__visible-checkbox {
-  background-color: #5b3f21;
+  background-color: #2b553a;
 }
 
 .question__unvisible:disabled + .question__visible-checkbox {
-  border: 1px solid #5b3f21;
+  border: 1px solid #2b553a;
   background-color: #fbf8ec;
 }
 
