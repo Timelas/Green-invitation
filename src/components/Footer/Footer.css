@@ -39,7 +39,7 @@
 
 .footer__name {
   font-family: "rosamarena", "Arial", sans-serif;
-  font-size: 80px;
+  font-size: 70px;
   line-height: 1.2;
   margin: 0;
 }
@@ -62,7 +62,7 @@
   }
 
   .footer__name {
-    font-size: 70px;
+    font-size: 60px;
   }
 
   .footer__stone {
@@ -87,7 +87,7 @@
   }
 
   .footer__name {
-    font-size: 60px;
+    font-size: 50px;
     line-height: 1.2;
   }
 
@@ -116,7 +116,7 @@
   }
 
   .footer__name {
-    font-size: 50px;
+    font-size: 40px;
     line-height: 1.2;
     margin: 0;
   }
